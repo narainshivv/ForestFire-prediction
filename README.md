@@ -1,0 +1,2 @@
+# ForestFire-prediction
+ForestFire prediction
